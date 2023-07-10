@@ -426,7 +426,7 @@ button:focus{
 }
 
 .lbox-details h2{
-	font-size: 48px;
+	font-size: 35px;
 	color: #ffffff;
 	font-weight: 300;
 	position: relative;
@@ -564,7 +564,7 @@ button:focus{
 .title-box h2{
 	font-size: 60px;
 	font-family: 'Libre Baskerville', serif;
-	color: #222222;
+	color: #881228;
 }
 .title-box h2 span{
 	color: #881228;
